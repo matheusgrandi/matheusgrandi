@@ -3,10 +3,10 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/murilo-marques-b42760115/">
+<a href="https://www.linkedin.com/in/matheus-grandi-381941162/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:murilommms@gmail.com">
+<a href="mailto:matheus@matheusgrandi.com.br">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
