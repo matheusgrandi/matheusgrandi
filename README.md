@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m a Full-stack developer with bachelor's degree in aerospace engineering and science and technology.</p>
+<p align="center">I’m a Back-end developer with bachelor's degree in aerospace engineering and science and technology.</p>
 
 ###
 
