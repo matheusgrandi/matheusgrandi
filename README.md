@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m a Back-end developer with bachelor's degree in aerospace engineering and science and technology.</p>
+<p align="center">I’m a Full Stack software engineer with bachelor's degree in aerospace engineering and science and technology.</p>
 
 
 <div align="center">
@@ -36,11 +36,5 @@
 <br clear="both">
 
 
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=matheusgrandi" alt="Layout with last medium posts"  />
-</div>
 
 ###
